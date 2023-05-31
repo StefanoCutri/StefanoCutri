@@ -1,6 +1,6 @@
 # 💫 About Me:
-### My name is Stefano and Im a junior developer.<br>
-✓ Im currently working on  my own personal projects to keep expanding my knowledge.<br>✓ Im looking to collaborate with other devs with the same enthusiasm 😊<br>✓ Im currently learning advanced React Native skills 🎩<br>✓ Im looking for team working and good communication 💭
+### My name is Stefano and I'm a junior developer.<br>
+✓ I'm currently working on  my own personal projects to keep expanding my knowledge.<br>✓ I'm looking to collaborate with other devs with the same enthusiasm 😊<br>✓ I'm currently learning advanced React Native skills 🎩<br>✓ I'm looking for team working and good communication 💭
 
 
 ## 🌐 Socials:
